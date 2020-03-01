@@ -1,2 +1,4 @@
 # cw1
-c/
+Maciej Skrzek
+s17245 
+13c
